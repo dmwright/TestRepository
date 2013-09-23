@@ -9,4 +9,4 @@ Here's another line just to make a change.
 
 ## Here is a smaller heading
 
-"italics"
+*italics*
